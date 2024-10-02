@@ -1,0 +1,53 @@
+{
+        "name": "Pinn Education",
+        "author": "Md Sanaul Haque Shanto",
+        "short_name": "PinnEdu",
+        "description": "Navigate your path to success with expert university admissions guidance from Pinn Education seasoned consultants.",
+        "start_url": "/index.html",
+        "background_color": "",
+        "theme_color": "#d24200",
+        "display": "standalone",
+        "icons":[
+        {
+
+            "src": "fevicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+                {
+                "src": "fevicon/fav144x144.png",
+
+            "sizes": "144x144",
+
+            "type": "image/png"
+                       }, 
+        {
+
+            "src": "fevicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+        ],
+    "manifest_version": 1,
+    "type": "WebApp",
+    "meta": {
+        "name": "Pinn Education",
+        "author": "Md Sanaul Haque Shanto",
+        "short_name": "PinnEdu",
+        "short_url": ".",
+        "background_color": "#0749b3",
+        "theme_color": "#d24200",
+        "display": "standalone",
+        "version": "1.0.0.01",
+        "minimum-overwolf-version": "pinneducation.org",
+        "minimum-gep-version": "pinneducation.org",
+        "description": "Navigate your path to success with expert university admissions guidance from Pinn Education seasoned consultants.",
+        "dock_button_title": "IARCO",
+        "launcher_icon": "fevicon/favicon.ico",
+        "splash_image": "fevicon/logo.png",
+        "window_icon": "fevicon/logo.png"
+        
+    },
+    "permissions": ["Web"]
+    
+}
